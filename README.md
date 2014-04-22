@@ -1,13 +1,13 @@
-# DTerm for Boxen
+# Coccinellida for Boxen
 
-[![Build Status](https://travis-ci.org/hakamadare/puppet-dterm.png?branch=master)](https://travis-ci.org/hakamadare/puppet-dterm)
+[![Build Status](https://travis-ci.org/hakamadare/puppet-coccinellida.png?branch=master)](https://travis-ci.org/hakamadare/puppet-coccinellida)
 
-This Boxen module installs [DTerm](http://decimus.net/DTerm).
+This Boxen module installs [Coccinellida](http://coccinellida.sourceforge.net/).
 
 ## Usage
 
 ```puppet
-class { 'dterm': }
+class { 'coccinellida': }
 ```
 
 ## Required Puppet Modules
