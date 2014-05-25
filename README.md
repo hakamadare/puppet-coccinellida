@@ -1,13 +1,13 @@
 # Coccinellida for Boxen
 
-[![Build Status](https://travis-ci.org/hakamadare/puppet-coccinellida.png?branch=master)](https://travis-ci.org/hakamadare/puppet-coccinellida)
+[![Build Status](https://travis-ci.org/boxen/puppet-coccinellida.svg?branch=0.1.1)](https://travis-ci.org/boxen/puppet-coccinellida)
 
 This Boxen module installs [Coccinellida](http://coccinellida.sourceforge.net/).
 
 ## Usage
 
 ```puppet
-class { 'coccinellida': }
+include coccinellida
 ```
 
 ## Required Puppet Modules
